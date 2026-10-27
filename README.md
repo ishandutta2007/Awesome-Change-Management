@@ -10,7 +10,7 @@
 
   <p align="center">
     <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-    <a href="https://github.com/ishandutta2007/Awesome-Change-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Change-Management?style=flat-square&logo=github&color=38bdf8" alt="GitHub Stars"/></a>
+    <a href="https://github.com/ishandutta2007/Awesome-Change-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Change-Management?style=flat-square&logo=github&color=38bdf8" alt="GitHub_Stars"/></a>
     <a href="https://github.com/ishandutta2007/Awesome-Change-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Change-Management?style=flat-square&logo=github&color=818cf8" alt="GitHub Forks"/></a>
     <a href="https://github.com/ishandutta2007/Awesome-Change-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Change-Management?style=flat-square&color=c084fc" alt="License"/></a>
     <a href="https://github.com/ishandutta2007/Awesome-Change-Management/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -81,53 +81,53 @@ The table below catalogs premier commercial SaaS solutions for enterprise Change
 
 ## 🔓 Open-Source GitHub Projects (Ranked by Stars)
 
-Sovereign, community-driven, and self-hosted open-source Change Management and release governance platforms. Entries are sorted in descending order by **GitHub Stars Count**, with live social star badges linking directly to each project's stargazers page.
+Sovereign, community-driven, and self-hosted open-source Change Management and release governance platforms. Entries are sorted in descending order by **GitHub_Stars_Count**, with live social Stars_Badges linking directly to each project's stargazers page.
 
-- **[Ansible AWX](https://github.com/ansible/awx)** [![GitHub Stars](https://img.shields.io/github/stars/ansible/awx?style=social&color=white)](https://github.com/ansible/awx/stargazers)  
+- **[Ansible AWX](https://github.com/ansible/awx)** [![GitHub_Stars](https://img.shields.io/github/stars/ansible/awx?style=social&color=white)](https://github.com/ansible/awx/stargazers)  
   *Enterprise Automation &amp; Infrastructure Change Orchestration Engine (Apache-2.0)*  
   The open-source upstream project for Red Hat Ansible Automation Platform. Provides workflow job templates with dedicated **approval nodes** that act as automated change control gates. Enforces credentialed playbooks, scheduled maintenance windows, dynamic inventory synchronization, and comprehensive audit logs for infrastructure changes.
 
-- **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
+- **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
   *Comprehensive Open-Source ITIL ITSM &amp; Change Management Suite (GPL-3.0)*  
   Delivers complete, ITIL-compliant Change Management workflows directly linked to assets, tickets, and problems. Supports full change lifecycle planning (impact analysis, deployment plan, backup/rollback plan, and checklists), visual infrastructure dependency trees, multi-tier CAB validation routings, recurrent change scheduling, and cost tracking.
 
-- **[Rundeck](https://github.com/rundeck/rundeck)** [![GitHub Stars](https://img.shields.io/github/stars/rundeck/rundeck?style=social&color=white)](https://github.com/rundeck/rundeck/stargazers)  
+- **[Rundeck](https://github.com/rundeck/rundeck)** [![GitHub_Stars](https://img.shields.io/github/stars/rundeck/rundeck?style=social&color=white)](https://github.com/rundeck/rundeck/stargazers)  
   *Runbook Automation &amp; Operations Change Governance Console (Apache-2.0)*  
   Enables self-service operations and controlled production changes. Features fine-grained role-based access control (RBAC), multi-step workflow execution with manual approval steps, scheduled execution windows, node filters, and full compliance recording of all changes pushed to production servers.
 
-- **[CODO / OpenDevOps](https://github.com/opendevops-cn/opendevops)** [![GitHub Stars](https://img.shields.io/github/stars/opendevops-cn/opendevops?style=social&color=white)](https://github.com/opendevops-cn/opendevops/stargazers)  
+- **[CODO / OpenDevOps](https://github.com/opendevops-cn/opendevops)** [![GitHub_Stars](https://img.shields.io/github/stars/opendevops-cn/opendevops?style=social&color=white)](https://github.com/opendevops-cn/opendevops/stargazers)  
   *Automated Multi-Cloud Operations &amp; Release Control Platform (Apache-2.0)*  
   An enterprise-grade open-source DevOps and operations management platform featuring automated deployment approval pipelines, multi-cloud CMDB synchronization, continuous delivery verification, and an immutable audit trail for all operational commands and configuration shifts.
 
-- **[The Foreman](https://github.com/theforeman/foreman)** [![GitHub Stars](https://img.shields.io/github/stars/theforeman/foreman?style=social&color=white)](https://github.com/theforeman/foreman/stargazers)  
+- **[The Foreman](https://github.com/theforeman/foreman)** [![GitHub_Stars](https://img.shields.io/github/stars/theforeman/foreman?style=social&color=white)](https://github.com/theforeman/foreman/stargazers)  
   *Complete Lifecycle Systems &amp; Configuration Change Management (GPL-3.0)*  
   A complete lifecycle management tool for physical and virtual servers. Provides configuration drift tracking, automated Puppet/Ansible provisioning, compliance auditing via OpenSCAP, and central change auditing across hybrid data centers.
 
-- **[Combodo iTop](https://github.com/Combodo/iTop)** [![GitHub Stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers)  
+- **[Combodo iTop](https://github.com/Combodo/iTop)** [![GitHub_Stars](https://img.shields.io/github/stars/Combodo/iTop?style=social&color=white)](https://github.com/Combodo/iTop/stargazers)  
   *ITIL-Compliant ITSM &amp; CMDB Change Management Platform (AGPL-3.0)*  
   Built around an advanced Configuration Management Database (CMDB) that provides interactive graphical impact analysis. Includes an ITIL-aligned Change Management module supporting Normal, Routine, and Emergency Change models with state machine lifecycle validation, approval routing, and CSV data synchronization.
 
-- **[Request Tracker (RT)](https://github.com/bestpractical/rt)** [![GitHub Stars](https://img.shields.io/github/stars/bestpractical/rt?style=social&color=white)](https://github.com/bestpractical/rt/stargazers)  
+- **[Request Tracker (RT)](https://github.com/bestpractical/rt)** [![GitHub_Stars](https://img.shields.io/github/stars/bestpractical/rt?style=social&color=white)](https://github.com/bestpractical/rt/stargazers)  
   *Enterprise Ticket, RFC &amp; Workflow Approval Engine (GPL-2.0)*  
   Developed by Best Practical, RT is a battle-tested issue tracking system equipped with the `RT::Approval` module. Enables organizations to build multi-stage change approval workflows, ticket dependency trees, custom lifecycle states, and complete historical audit trails.
 
-- **[Znuny](https://github.com/znuny/Znuny)** [![GitHub Stars](https://img.shields.io/github/stars/znuny/Znuny?style=social&color=white)](https://github.com/znuny/Znuny/stargazers)  
+- **[Znuny](https://github.com/znuny/Znuny)** [![GitHub_Stars](https://img.shields.io/github/stars/znuny/Znuny?style=social&color=white)](https://github.com/znuny/Znuny/stargazers)  
   *Active Community Fork of OTRS with ITIL Change Management (GPL-3.0)*  
   Features a dedicated `ITSMChangeManagement` framework providing defined roles (Change Builder, Change Manager, CAB Member), CAB templates, impact/urgency/priority matrices, state-machine transitions, work orders linked to changes, and automated notifications.
 
-- **[FreeITSM](https://github.com/edmozley/freeitsm)** [![GitHub Stars](https://img.shields.io/github/stars/edmozley/freeitsm?style=social&color=white)](https://github.com/edmozley/freeitsm/stargazers)  
+- **[FreeITSM](https://github.com/edmozley/freeitsm)** [![GitHub_Stars](https://img.shields.io/github/stars/edmozley/freeitsm?style=social&color=white)](https://github.com/edmozley/freeitsm/stargazers)  
   *Free &amp; Open-Source Lightweight ITSM Suite (MIT)*  
   A modern, accessible open-source ITSM solution featuring Incident, Problem, and Change Request tracking modules. Includes asset mapping, technician queues, and clean status progressions for smaller organizations needing sovereign change tracking.
 
-- **[HeidSoft ITSM](https://github.com/heidsoft/itsm)** [![GitHub Stars](https://img.shields.io/github/stars/heidsoft/itsm?style=social&color=white)](https://github.com/heidsoft/itsm/stargazers)  
+- **[HeidSoft ITSM](https://github.com/heidsoft/itsm)** [![GitHub_Stars](https://img.shields.io/github/stars/heidsoft/itsm?style=social&color=white)](https://github.com/heidsoft/itsm/stargazers)  
   *BPMN-Powered Enterprise ITSM &amp; Change Workflow Platform (Apache-2.0)*  
   Constructed with Go/Gin and Next.js, featuring an embedded workflow engine that orchestrates multi-stage change approvals, configuration item tracking, service catalog items, and team permissions with low-latency Docker deployments.
 
-- **[NetBox Change Control](https://github.com/antoinekh/netbox-change-control)** [![GitHub Stars](https://img.shields.io/github/stars/antoinekh/netbox-change-control?style=social&color=white)](https://github.com/antoinekh/netbox-change-control/stargazers)  
+- **[NetBox Change Control](https://github.com/antoinekh/netbox-change-control)** [![GitHub_Stars](https://img.shields.io/github/stars/antoinekh/netbox-change-control?style=social&color=white)](https://github.com/antoinekh/netbox-change-control/stargazers)  
   *Policy-Driven Change Control &amp; Review for NetBox Branches (Apache-2.0)*  
   Extends NetBox with pull-request-style change reviews and mandatory approvals for network infrastructure changes. Enables teams to stage modifications in dedicated branches, review visual diffs, enforce reviewer quorums, and prevent unverified network configuration changes.
 
-- **[Sqedule](https://github.com/fullstaq-labs/sqedule)** [![GitHub Stars](https://img.shields.io/github/stars/fullstaq-labs/sqedule?style=social&color=white)](https://github.com/fullstaq-labs/sqedule/stargazers)  
+- **[Sqedule](https://github.com/fullstaq-labs/sqedule)** [![GitHub_Stars](https://img.shields.io/github/stars/fullstaq-labs/sqedule?style=social&color=white)](https://github.com/fullstaq-labs/sqedule/stargazers)  
   *Release Auditing &amp; Approval Governance Platform (GPL-3.0)*  
   A dedicated release governance and sign-off platform designed to sit between continuous integration pipelines and production deployments, ensuring compliance approvals, change window checks, and stakeholder sign-offs before releases proceed.
 
